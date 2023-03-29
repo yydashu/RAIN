@@ -1,0 +1,5 @@
+datapath,datapath_pre1,datapath_pre2,label,label_pre1,label_pre2,seriesname,T,P,L,patient_level_ID
+./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,0,0,0,0,0,0,0,R_384
+./demo_data/R_384/mfs1.5-ME160202MR1017/T1C++.npy,./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,0,0,0,0,0,0,0,R_384
+./demo_data/R_384/mfs1.5-ME170209MR1024/T1C++.npy,./demo_data/R_384/mfs1.5-ME160202MR1017/T1C++.npy,./demo_data/R_384/mfs1-ME150506MR1005/T1C++.npy,0,0,0,0,0,0,0,R_384
+./demo_data/R_384/mfs1.5-ME181119MR4069/T1C++.npy,./demo_data/R_384/mfs1.5-ME170209MR1024/T1C++.npy,./demo_data/R_384/mfs1.5-ME160202MR1017/T1C++.npy,1,0,0,0,1,0,1,R_384
